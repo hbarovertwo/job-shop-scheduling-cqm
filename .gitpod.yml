@@ -1,0 +1,4 @@
+tasks:
+  - name: Install requirements
+    init: |
+      pip install -r requirements.txt
